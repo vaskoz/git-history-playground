@@ -8,3 +8,4 @@ an example of how you can fool with git history
 * Past plans from the past.
 
 * Oldest commit
+* Much older than oldest
