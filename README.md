@@ -6,3 +6,5 @@ an example of how you can fool with git history
 * First addition to this readme.
 * Future plans from the future.
 * Past plans from the past.
+
+* Oldest commit
