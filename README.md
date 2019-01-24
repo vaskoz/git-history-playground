@@ -9,3 +9,5 @@ an example of how you can fool with git history
 
 * Oldest commit
 * Much older than oldest
+
+Oldest commiter date.
